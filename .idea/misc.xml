@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/ic_baseline_replay_24.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/ic_baseline_shopping_basket_24.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/menu.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/menu2.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/menu8.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable-v24/replay7.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable/black_back.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable/right.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/drawable/search.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_image_eal.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/article_page.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/card_light.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/card_overlap.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/crypto_screen.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/dashboard_screen.xml" value="0.1425925925925926" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/finance_screen.xml" value="0.1" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/food_review.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/home_page.xml" value="0.2" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/image_teal.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/login_page.xml" value="0.2359375" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/pay_bill_screen.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/simple_green.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/simple_light.xml" value="0.25" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/statistic_screen.xml" value="0.2359375" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/wallet_screen.xml" value="0.2359375" />
+        <entry key="..\:/MaterialX/app/src/main/res/layout/wallet_screen_green.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

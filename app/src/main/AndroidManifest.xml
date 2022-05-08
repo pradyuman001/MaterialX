@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.materialx">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialX">
+        <activity
+            android:name=".Screen.Dashboard.Crypto_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Wallet_Screen_green"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Wallet_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Pay_Bill_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Finance_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Statistic_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Dashboard.Dashboard_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Article_Screen.Food_Review"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Article_Screen.Article_Page"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Card_Overlap"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Card_Light"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Image_Teal"
+            android:exported="false" />
+        <activity
+            android:name=".image_eal"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Simple_Green"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Simple_Light"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Login_Screen.Login_Page"
+            android:exported="false" />
+        <activity
+            android:name=".Screen.Home_Screen.Home_Page"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
